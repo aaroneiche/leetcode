@@ -6,4 +6,5 @@ This is a record of my Leetcode coding attempts. I'm putting them out here on Gi
 | 1880 | 04 June 2021 | 76ms | 84.55% |
 | 1480 | 06 June 2021 | 72ms | 96.34% |
 | 1108 | 07 June 2021 | 68ms | 97.51% |
+| 1470 | 08 June 2021 | 88ms | 68.78% |
 </table>
